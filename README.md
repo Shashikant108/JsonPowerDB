@@ -11,8 +11,8 @@
 
 ## Table of contents
 *  CRUD Operations
-   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/PUT.png">GET</a>
-   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/GET.png">PUT</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/PUT.png">PUT</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/GET.png">GET</a>
    * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/REMOVE.png">REMOVE</a>
    * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/UPDATE.png">UPDATE</a>
 *  Web Form
