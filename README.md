@@ -18,10 +18,10 @@
 *  Web Form
 
 ## Project Status
-<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/Employee.png">
-<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/localhost.png">
-<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/SAMPLE.png">
-<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/dashboard.png">
+* <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/employee.png">Employee</a>
+* <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/localhost verical form.png">Vertical Form</a>
+* <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/sample.png">SAMPLE</a>
+* <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/dashboard.png">Dashboard</a>
 
 ## Sources
 * <a href= "http://login2explore.com/jpdb/docs.html">Documentation Link</a>
