@@ -11,17 +11,17 @@
 
 ## Table of contents
 *  CRUD Operations
-   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/GET.png">GET</a>
-   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/PUT.png">PUT</a>
-   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/DELETE.png">DELETE</a>
-   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/UPDATE.png">UPDATE</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/PUT.png">GET</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/GET.png">PUT</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/REMOVE.png">REMOVE</a>
+   * <a href= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/UPDATE.png">UPDATE</a>
 *  Web Form
 
 ## Project Status
-<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/Dashboard.png">
-<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/Employee.png">
-<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/SAMPLE.png">
-<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/WebForm localhost.png">
+<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/Employee.png">
+<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/localhost.png">
+<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/SAMPLE.png">
+<img src= "https://github.com/Shashikant108/JsonPowerDB/blob/main/All%20CRUD%20Operations/dashboard.png">
 
 ## Sources
 * <a href= "http://login2explore.com/jpdb/docs.html">Documentation Link</a>
